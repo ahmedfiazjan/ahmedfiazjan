@@ -7,11 +7,6 @@ I'm learning to build in public and ship stuff that matters.
 - Working on the frontend side of the web.
 - Learning and sharing as I go.
 
-## The Numbers
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedfiazjan&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfiazjan&layout=compact&theme=dark)
-
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ahmadfiazjan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ## 📫 How to Reach Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedfiazjaan/)
