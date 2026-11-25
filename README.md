@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="830" alt="Small web products">
+</picture>
+
 # Ahmad Fiaz Jan
 
 I build small web products, launch them, and try to get people to use them. I also work at Omnesoft, on the web app for their ERP.
@@ -5,6 +10,9 @@ I build small web products, launch them, and try to get people to use them. I al
 ## What I've shipped
 
 - **[Cascade for Jira](https://cascadeforjira.com)**: a Chrome extension that shows Jira issues as a tree and marks what changed since your last visit.
+
+  <a href="https://cascadeforjira.com"><img src="assets/cascade-tree.png" width="720" alt="Cascade for Jira showing Jira issues as a tree"></a>
+
 - **[Extension Preflight](https://extensionpreflight.com)**: checks a Chrome extension for the common reasons the Chrome Web Store rejects one, before you submit it. It runs in your browser, and the [scanner is open source](https://github.com/ahmedfiazjan/extension-preflight).
 - **[RowBalance](https://rowbalance.com)**: turns bank statements (PDF, CSV, OFX and more) into Excel, CSV or QuickBooks files and checks the totals. It reads your statements in your browser.
 - **[TaxWizard.pk](https://taxwizard.pk)**: tax calculators for Pakistan. I use it to learn SEO.
