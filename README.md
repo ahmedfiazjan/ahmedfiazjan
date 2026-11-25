@@ -1,16 +1,14 @@
-# Hey, I'm Ahmad 👋
+# Ahmad Fiaz Jan
 
-I'm learning to build in public and ship stuff that matters. 
+I build small web products, launch them, and try to get people to use them. I also work at Omnesoft, on the web app for their ERP.
 
-## What I'm About
-- Building useful things with Angular, TypeScript, JavaScript.
-- Working on the frontend side of the web.
-- Learning and sharing as I go.
+## What I've shipped
 
+- **[Cascade for Jira](https://cascadeforjira.com)**: a Chrome extension that shows Jira issues as a tree and marks what changed since your last visit.
+- **[Extension Preflight](https://extensionpreflight.com)**: checks a Chrome extension for the common reasons the Chrome Web Store rejects one, before you submit it. It runs in your browser, and the [scanner is open source](https://github.com/ahmedfiazjan/extension-preflight).
+- **[RowBalance](https://rowbalance.com)**: turns bank statements (PDF, CSV, OFX and more) into Excel, CSV or QuickBooks files and checks the totals. It reads your statements in your browser.
+- **[TaxWizard.pk](https://taxwizard.pk)**: tax calculators for Pakistan. I use it to learn SEO.
 
-## 📫 How to Reach Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedfiazjaan/)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ahmadfiazjan)
-- [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://ahmadfiaz.me/)
----
-PS: Drop me a message if you want to collaborate on something cool!
+I build with Claude Code and post what I learn on [LinkedIn](https://www.linkedin.com/in/ahmedfiazjaan/) and [X](https://x.com/ahmadfiazjan).
+
+[ahmadfiaz.me](https://ahmadfiaz.me)
